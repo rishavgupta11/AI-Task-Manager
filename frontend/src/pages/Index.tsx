@@ -84,7 +84,7 @@ const Index = () => {
           transition={{ delay: 0.5 }}
           className="text-center py-8 text-sm text-muted-foreground"
         >
-          <p>© Copyright 2025-2026, Rishav Gupta❤️✨.</p>
+          <p>© Copyright 2025-2026, Rishav Gupta✨.</p>
           <p>All rights reserved.</p>
         </motion.footer>
       </div>
